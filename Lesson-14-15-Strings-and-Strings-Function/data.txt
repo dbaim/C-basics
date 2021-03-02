@@ -1,0 +1,9 @@
+Player Score Score1
+Aidana 900 900
+Bolat 550 550
+Aizada 300 0
+Aisultan 300 30
+Arman 1200 23
+Eldar 100 69
+Timur 990 10
+Saule 550 420
