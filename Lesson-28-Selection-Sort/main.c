@@ -67,7 +67,7 @@ int main() {
 	// Printing out the roster, in the initial order
 	printArray(roster, 8);
 
-	// Sorting the array by id (hopefully)
+	// Sorting the array by id 
 	selectionSortById(roster, 8);
 
 	// Printing out the roster, after sorting by id
